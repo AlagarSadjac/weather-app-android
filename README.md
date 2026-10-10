@@ -12,7 +12,7 @@ Weather App is a fast, responsive native Android application built using Java, R
 ## 📥 Download the App
 Click the badge below to download the latest APK directly to your Android device:
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/M_Weather/releases/download/v1.0.0/app-debug.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/weather-app-android/releases/download/v1.0.0/app-debug.apk)
 
 ---
 
