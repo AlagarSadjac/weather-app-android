@@ -1,4 +1,4 @@
-package com.nature.m_weather;
+package com.nature.m_weather.model;
 
 import com.google.gson.annotations.SerializedName;
 

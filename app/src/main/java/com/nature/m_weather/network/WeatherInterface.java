@@ -1,4 +1,6 @@
-package com.nature.m_weather;
+package com.nature.m_weather.network;
+
+import com.nature.m_weather.model.WeatherResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
